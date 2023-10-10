@@ -12,7 +12,7 @@ def sort_student(student_list):
 students = [
            student('hariharan','k111',7.8),
            student('jegan','k112',9.8),
-           student('madhanraj','k113',8.8)
+           student('sakthi','k113',8.8)
            ]
 
 sorted_students = sort_student(students)
